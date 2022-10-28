@@ -26,6 +26,10 @@ A - Generally, We take box add few item to it, then we seal it and we can write 
 - How will you do that?
 - use `git pull`
 
+## What is Branch in Git?
+
+## What is Pull Request?
+
 
 
 
