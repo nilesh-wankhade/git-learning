@@ -30,6 +30,8 @@ A - Generally, We take box add few item to it, then we seal it and we can write 
 
 ## What is Pull Request?
 
+### What is Merge?
+
 
 
 
